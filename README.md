@@ -1,2 +1,2 @@
 # leet_code
-Set of problems solved at leetcode.com
+Problems solved from https://leetcode.com/
